@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\bin\Debug\net8.0\VerificadorAcesso.exe
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\bin\Debug\net8.0\VerificadorAcesso.deps.json
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\bin\Debug\net8.0\VerificadorAcesso.runtimeconfig.json
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\bin\Debug\net8.0\VerificadorAcesso.dll
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\bin\Debug\net8.0\VerificadorAcesso.pdb
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.AssemblyInfo.cs
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.dll
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\refint\VerificadorAcesso.dll
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.pdb
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\VerificadorAcesso.genruntimeconfig.cache
+C:\Users\MOISÉS\Desktop\VerificadorAcesso\obj\Debug\net8.0\ref\VerificadorAcesso.dll
